@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BradAtkinCode96
+- 👋 Hi, I’m Brad Atkinson
 - 👀 I’m interested in bouldering and coding
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any beginner projects at the moment to learn
